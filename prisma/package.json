@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MarcMogdanz/typed-prisma-package.git",
+    "url": "https://github.com/mickiyas123/custom-primsa-package.git",
     "directory": "prisma"
   },
   "dependencies": {
